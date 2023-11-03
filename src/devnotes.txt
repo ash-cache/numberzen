@@ -1,0 +1,8 @@
+The user inputs panel should contain elements that can be 
+1. styled and 
+2. be editable
+
+I tried using contenteditable divs over inputs.
+The problem is that the cursor is reset to the start of the box on each render.
+
+lexical is a text editor framework from Meta that can be integrated into React
